@@ -1,175 +1,72 @@
 <div align="center">
 
-# 🚀 Zoe CLI
+# Hi, I'm Joel Araujo 👋
 
-### Understand your project before AI does.
+### Indie developer building AI tools in public.
 
-An AI coding terminal that analyzes your project, plans changes, and helps you build with confidence.
+**Creator of Zoe CLI**
 
-<p>
-  <a href="https://getzoe.dev">
-    <img src="https://img.shields.io/badge/Website-getzoe.dev-7C3AED?style=for-the-badge">
-  </a>
-  <a href="https://github.com/iamnocodeveloper/zoe-cli">
-    <img src="https://img.shields.io/github/stars/iamnocodeveloper/zoe-cli?style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Public%20Preview-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
-</p>
+> Understand your project before AI does.
+
+🌐 [getzoe.dev](https://getzoe.dev)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="./assets/hero.png" width="100%">
-</p>
+## 🚀 Current Project
+
+### Zoe CLI
+
+An AI coding terminal that analyzes your project, plans changes, and helps you build from your command line.
+
+**Analyze → Plan → Build**
 
 ---
 
-# Philosophy
+## What I'm Building
 
-Most AI coding tools start generating code immediately.
-
-**Zoe takes a different approach.**
-
-Before changing a single file, Zoe understands your project.
-
-It analyzes your architecture, discovers relationships, plans modifications, and only then starts building.
-
-> **Analyze → Plan → Build**
+- 🚀 Zoe CLI
+- 🤖 AI Developer Tools
+- 📺 Educational content for developers
+- 🌍 Building in Public
 
 ---
 
-# Features
+## Find Me
 
-- 🧠 Project Intelligence
-- 💬 AI Chat
-- 🛠 Build Mode
-- 📂 Safe File Editing
-- ⚛ React Support
-- 🔍 Project Scanner
-- 🤖 DeepSeek Integration
-- 🚀 Building in Public
+- 🌐 Website: [getzoe.dev](https://getzoe.dev)
+- 🐙 GitHub: [@iamnocodeveloper](https://github.com/iamnocodeveloper)
+- 𝕏 X: [@iamnocodeveloper](https://x.com/iamnocodeveloper)
+- 📺 YouTube: [NoCodeveloper](https://youtube.com/@NoCodeveloper)
 
 ---
 
-# Demo
+## Current Focus
 
-```bash
-$ zoe
+Building products one commit at a time.
 
-✓ Project detected
+Right now I'm focused on making **Zoe CLI** useful for real developers.
 
-✓ React detected
+The goal is simple:
 
-✓ TypeScript detected
-
-✓ 284 files indexed
-
-> Create authentication
-
-Planning...
-
-Ready.
-
-Waiting confirmation...
-```
+> Help developers understand, plan and build faster with AI.
 
 ---
 
-# Quick Start
+## GitHub
 
-```bash
-# Coming Soon
+![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnocodeveloper&show_icons=true&hide_border=true&theme=transparent)
 
-npm install -g zoe-cli
-
-zoe
-```
-
----
-
-# Roadmap
-
-| Version | Status |
-|----------|--------|
-| ✅ v0.1 | Public Preview |
-| 🚧 v0.2 | Zoe Cloud |
-| 🔜 v0.3 | Project Memory |
-| 🔜 v0.4 | AI Agents |
-| 🔮 v1.0 | Zoe Platform |
-
----
-
-# Building in Public
-
-Zoe is built completely in public.
-
-Every feature.
-
-Every bug.
-
-Every release.
-
-Every lesson.
-
-Follow the journey:
-
-🌐 https://getzoe.dev
-
----
-
-# Current Goals
-
-- Improve Project Intelligence
-- Better React understanding
-- Multi-model support
-- Memory system
-- Cloud sync
-- Plugins
-- Better Build Mode
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-If you have ideas, improvements or bug fixes, feel free to open an Issue or Pull Request.
-
----
-
-# Community
-
-Website
-
-https://getzoe.dev
-
-GitHub
-
-https://github.com/iamnocodeveloper
-
-X
-
-https://x.com/iamnocodeveloper
-
-YouTube
-
-https://youtube.com/@NoCodeveloper
-
----
-
-# License
-
-MIT License
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnocodeveloper&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
 <div align="center">
 
-### ⭐ If you like Zoe CLI, consider giving it a Star.
+### Follow the journey
 
-**Understand your project before AI does.**
+Every product starts as an idea.  
+I'm sharing the entire process — from the first commit to production.
 
 </div>
