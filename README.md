@@ -1,72 +1,126 @@
-<div align="center">
+<h1 align="center">
+🚀 Zoe CLI
+</h1>
 
-# Hi, I'm Joel Araujo 👋
+<p align="center">
+<b>Understand your project before AI does.</b>
+</p>
 
-### Indie developer building AI tools in public.
-
-**Creator of Zoe CLI**
-
-> Understand your project before AI does.
-
-🌐 [getzoe.dev](https://getzoe.dev)
-
-</div>
+<p align="center">
+<a href="https://getzoe.cloud">Website</a> •
+<a href="https://github.com/iamnocodeveloper">GitHub</a> •
+<a href="https://x.com/iamnocodeveloper">X</a> •
+<a href="https://youtube.com/@NoCodeveloper">YouTube</a>
+</p>
 
 ---
 
-## 🚀 Current Project
+## 👋 Hi, I'm Joel
+
+I'm building **Zoe CLI** completely in public.
+
+My goal is simple:
+
+> Build an AI coding assistant that understands your project before changing it.
+
+Every feature, every bug, every release is shared publicly.
+
+---
+
+# 🚀 Current Project
 
 ### Zoe CLI
 
-An AI coding terminal that analyzes your project, plans changes, and helps you build from your command line.
+**Understand your project before AI does.**
 
-**Analyze → Plan → Build**
-
----
-
-## What I'm Building
-
-- 🚀 Zoe CLI
-- 🤖 AI Developer Tools
-- 📺 Educational content for developers
-- 🌍 Building in Public
+🌐 **https://getzoe.cloud**
 
 ---
 
-## Find Me
+# Philosophy
 
-- 🌐 Website: [getzoe.dev](https://getzoe.dev)
-- 🐙 GitHub: [@iamnocodeveloper](https://github.com/iamnocodeveloper)
-- 𝕏 X: [@iamnocodeveloper](https://x.com/iamnocodeveloper)
-- 📺 YouTube: [NoCodeveloper](https://youtube.com/@NoCodeveloper)
+Most AI coding tools generate code immediately.
 
----
+Zoe takes a different approach.
 
-## Current Focus
+It analyzes your project, understands dependencies, architecture and relationships, then helps you build with confidence.
 
-Building products one commit at a time.
-
-Right now I'm focused on making **Zoe CLI** useful for real developers.
-
-The goal is simple:
-
-> Help developers understand, plan and build faster with AI.
+```
+Analyze → Plan → Build
+```
 
 ---
 
-## GitHub
+# Current Features
 
-![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnocodeveloper&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnocodeveloper&layout=compact&hide_border=true&theme=transparent)
+- Project Intelligence
+- AI Chat
+- GitHub Login
+- Cloud Models
+- Safe File Editing
+- React Support
+- Project Scanner
+- Building in Public
 
 ---
 
-<div align="center">
+# Roadmap
 
-### Follow the journey
+| Version | Status |
+|---------|--------|
+| v0.1 | 🟢 Public Preview |
+| v0.2 | 🟡 Zoe Cloud |
+| v0.3 | ⚪ Project Memory |
+| v0.4 | ⚪ AI Agents |
+| v1.0 | ⚪ Public Release |
 
-Every product starts as an idea.  
-I'm sharing the entire process — from the first commit to production.
+---
 
-</div>
+# Building in Public
+
+I'm documenting the entire journey.
+
+- Every commit
+- Every feature
+- Every lesson
+- Every release
+
+Follow the build:
+
+🌐 **https://getzoe.cloud**
+
+---
+
+# Current Goal
+
+Launch the first public preview and build Zoe together with the community.
+
+---
+
+# Community
+
+Website
+
+https://getzoe.cloud
+
+GitHub
+
+https://github.com/iamnocodeveloper
+
+X
+
+https://x.com/iamnocodeveloper
+
+YouTube
+
+https://youtube.com/@NoCodeveloper
+
+---
+
+<p align="center">
+
+⭐ If you like Zoe CLI, consider giving it a Star.
+
+<b>Understand your project before AI does.</b>
+
+</p>
